@@ -1,5 +1,6 @@
 -- made by: khalifa#6453
 -- key "atlaswinning"
+--JetstreamSam Required item: https://www.roblox.com/catalog/5870508493/Red-Cyberpunk-Voltaic-Katana
 
 --$$$$$$\ $$$$$$$$\ $$\        $$$$$$\   $$$$$$\        $$\   $$\ $$\   $$\ $$$$$$$\  
 --$$  __$$\\__$$  __|$$ |      $$  __$$\ $$  __$$\       $$ |  $$ |$$ |  $$ |$$  __$$\ 
